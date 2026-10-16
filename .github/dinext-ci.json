@@ -1,0 +1,8 @@
+{
+  "app": "frappe_comment_xt",
+  "package_dir": "frappe_comment_xt",
+  "mode": "repository",
+  "gitflow": false,
+  "frontend_tests": false,
+  "skip_test_records": false
+}
